@@ -1,7 +1,7 @@
 <!-----LINK UNTUK HEAD HTML ---- CSS - BOOTSTRAP - FONT ------>
 
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
     <script type="text/javascript" src="js/bootstrap.js"></script>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,900&display=swap" rel="stylesheet">
