@@ -1,0 +1,60 @@
+.login{
+    padding: 50px;
+    background-color: #b69a83;
+    color: #ffffff;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.header{
+    background:#9b8370;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+.footer{
+    background:#645345;
+    color: white;
+    padding: 5px;
+    font-size: small;
+    font-family: 'Ubuntu', sans-serif;
+}
+.kanan{
+    float: right;
+    background: #fff8f2;
+    font-size: small;
+    width: 80%;
+    min-height: 1000px;
+    max-height: 2000px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.kiri{
+    float: left;
+    background: #ece3bb;
+    font-size: small;
+    width: 20%;
+    min-height: 1000px;
+    max-height: 2000px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.kiri-nav{
+    height: max-content;
+    width: 100%;
+    display: inline-table;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+.kiri-nav a{
+    background:#856a52; 
+    color: #ffffff;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+    display: block;
+    border-radius: 20px;
+}
+.kiri-nav a:hover{
+    background:#5c4837;
+    color:#ffffff;
+    font-weight: bold;
+}
+.box{
+    font-family: 'Josefin Sans', sans-serif;
+}
